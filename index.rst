@@ -4,7 +4,7 @@ Paddy power login
 
 Paddy Power Login Guide – Easy Access to Your Betting Account
 
-.. image:: get.png
+.. image:: get.jpg
    :alt: My5.tv/activate
    :target: https://ww0.us/?aHR0cHM6Ly9teTV0dmFjdGl2YXRlLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
 
