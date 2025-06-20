@@ -5,8 +5,8 @@ Paddy power login
 Paddy Power Login Guide – Easy Access to Your Betting Account
 
 .. image:: get.jpg
-   :alt: My5.tv/activate
-   :target: https://ww0.us/?aHR0cHM6Ly9teTV0dmFjdGl2YXRlLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
+   :alt: Paddy power login
+   :target: https://fm.ci?aHR0cHM6Ly9wYWRkeXBvd2VyLXN1cHBvcnQucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
 
    
 Paddy Power is one of the leading online betting and gaming platforms in the UK and Ireland. Whether you want to place sports bets, play casino games, or explore live betting options, accessing your account quickly and securely is the first step. This guide walks you through the Paddy Power login process, troubleshooting tips, and account security best practices.
