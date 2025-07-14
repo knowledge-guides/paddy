@@ -6,7 +6,7 @@ Paddy Power Login Guide – Easy Access to Your Betting Account
 
 .. image:: get.jpg
    :alt: Paddy power login
-   :target: https://paddypowerlogin.jimdosite.com/
+   :target: https://pre.im/?3X7UunD01l83t39o7MoHKQAafOQbAYjRzb67LwX5vjXRgKQloHY3kTmGzyYhPIOGmoHRs
 
    
 Paddy Power is one of the leading online betting and gaming platforms in the UK and Ireland. Whether you want to place sports bets, play casino games, or explore live betting options, accessing your account quickly and securely is the first step. This guide walks you through the Paddy Power login process, troubleshooting tips, and account security best practices.
